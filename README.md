@@ -2,7 +2,7 @@
 
 > A practical framework for making smarter financial decisions — from daily spending to long-term wealth building.
 
-[![KeepRule](https://img.shields.io/badge/Explore_Scenarios-KeepRule-blue)](https://keeprule.com/en/scenarios)
+[![KeepRule](https://img.shields.io/badge/Explore_Scenarios-KeepRule-blue)](https://keeprule.com)
 
 ## The Personal Finance Decision Stack
 
@@ -102,7 +102,7 @@ Every time your income increases, answer:
 
 ## Explore Financial Scenarios
 
-Practice financial decision-making with real-world scenarios on **[KeepRule](https://keeprule.com/en/scenarios)** — wisdom from master investors applied to everyday finance.
+Practice financial decision-making with real-world scenarios on **[KeepRule](https://keeprule.com)** — wisdom from master investors applied to everyday finance.
 
 ## Contributing
 
